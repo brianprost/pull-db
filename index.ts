@@ -1,0 +1,1 @@
+console.log("Don't run me. Run `npm run db:pull`");
